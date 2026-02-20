@@ -1,2 +1,2 @@
-# mg
+# website
 my personal website
